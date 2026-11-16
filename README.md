@@ -40,3 +40,9 @@ writes an answer with citations. Measured on a public benchmark. Publication pla
 ## Languages
 
 Armenian (native) · Russian (fluent) · English (B2, comfortable in writing)
+
+## Contact
+
+Email: [vardanyanvahan123@gmail.com](mailto:vardanyanvahan123@gmail.com)
+
+Open to remote roles in AI automation, written communication preferred.
